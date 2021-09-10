@@ -1,32 +1,32 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
+	"Resume": [{
+		"Position": "Cyber Security Consultant",
+		"Company": "Accenture",
+		"Location": "San Francisco, CA",
 		"Year": "2021"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
+		"Position": "Management Consultant",
+		"Company": "Accenture",
+		"Location": "San Francisco, CA",
 		"Year": "2020"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Position": "Management Consulting Senior Analyst",
+		"Company": "Accenture",
+		"Location": "San Francisco, CA",
+		"Year": "2019"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Position": "Management Consulting Analyst",
+		"Company": "Accenture",
+		"Location": "San Francisco, CA",
+		"Year": "2018"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
+		"Position": "Trade Finance Intern",
+		"Company": "US Dept of Commerce",
+		"Location": "Washington, D.C.",
 		"Year": "2017"
 	}]
 	
